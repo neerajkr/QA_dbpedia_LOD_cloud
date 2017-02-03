@@ -1,5 +1,3 @@
-# QA_dbpedia_LOD_cloud
-
 Question Answering from DBpedia to the whole LOD cloud
 =======================================================
 
