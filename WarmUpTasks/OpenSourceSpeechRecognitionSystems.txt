@@ -1,0 +1,74 @@
+﻿Open Source speech recognition Softwares
+============================================
+Prepared by Neeraj Kumar
+
+
+1.  CMU Sphinx
+-------------------------
+It is a a group of speech recognition systems developed at Carnegie Mellon University. These include a series of speech recognizers (Sphinx 2 - 4) and an acoustic model trainer. 
+
+Site: http://cmusphinx.sourceforge.net/ 
+Source Code Language: Java
+Operating System: Multi-Platform
+Supported Language: English
+
+
+2. Julius
+--------------------------
+Julius is a high-performance, two-pass large vocabulary continuous speech recognition (LVCSR) decoder software for speech-related researchers and developers. It can perform almost real-time decoding on most current PCs in 60k word dictation task using word 3-gram and context-dependent HMM.
+
+Site: http://julius.osdn.jp/en_index.php
+Source Code Language: C
+Operating System: Multi-Platform
+Supported Language: English
+
+
+3. KALDI
+-------------------------
+Kaldi is a speech recognition toolkit, freely available under the Apache License.
+Kaldi aims to provide software that is flexible and extensible.[2] It supports linear transforms, MMI, boosted MMI and MCE discriminative training, feature-space discriminative training, and deep neural networks
+
+Site: http://kaldi-asr.org/
+Github: https://github.com/kaldi-asr/kaldi
+Source Code Language: C++
+Operating System: Multi-Platform
+Supported Language: English
+
+
+
+4. iATROS
+--------------------------
+iATROS (improved ATROS) is a new implementation of a previous speech recogniser that has been adapted to be used in both speech and handwritten text recognition. iATROS provides a modular structure that can be used to build different systems whose core is a Viterbi-like search on a Hidden Markov Model network. iATROS provides standard tools for off-line recognition and on-line speech recognition (based on ALSA modules).
+
+Site: https://www.prhlt.upv.es/page/projects/multimodal/idoc/iatros
+Source Code Language: C
+Operating System: Multi-Platform
+Supported Language: English
+
+
+5. Julius
+--------------------------
+Julius is a high-performance, two-pass large vocabulary continuous speech recognition (LVCSR) decoder software for speech-related researchers and developers. It can perform almost real-time decoding on most current PCs in 60k word dictation task using word 3-gram and context-dependent HMM.
+
+Site: http://julius.osdn.jp/en_index.php
+Source Code Language: C
+Operating System: Multi-Platform
+Supported Language: English
+
+
+6. HTK (Hidden Markov Model Toolkit)
+-------------------------------------
+The Hidden Markov Model Toolkit (HTK) is a portable toolkit for building and manipulating hidden Markov models. HTK is primarily used for speech recognition research although it has been used for numerous other applications including research into speech synthesis, character recognition and DNA sequencing. HTK is in use at hundreds of sites worldwide.
+
+Note: Although, it is not open-source but freely distributed
+Site: http://htk.eng.cam.ac.uk/
+Source Code Language: C
+Operating System: Multi-Platform
+Supported Language: English
+
+
+
+The following lists open-source applications that provide convenient user interfaces
+-------------------------------------------------------------------------------------
+1. Simon: It supports Sphinx, HTK and Julius
+2. Jasper project: Raspberry Pi front-end for CMU Sphinx or Julius
